@@ -24,7 +24,8 @@ The conda environement used in the project is decsribed in requirements.txt.
      python train_DAD.py
      ```
 
-## Test
+## Test the Model
+  1. 
      ```
      python test_DAD.py
      ```
