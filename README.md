@@ -3,7 +3,7 @@ Related Manuscript: This code is associated with “Progressive Disentanglement 
 
 [DOI] 10.5281/zenodo.15901469
 ## Datasets
-To train on the Anomaly Detection dataset, download the data and extract it. You can run the download_dataset.sh script from the project directory to download the MVTec to the datasets folder.
+To train on the MVTec Anomaly Detection dataset, download the data and extract it. You can run the download_dataset.sh script from the project directory to download the MVTec to the datasets folder.
 ## Installation
 The conda environement used in the project is decsribed in requirements.txt.
 ## Train the Model
