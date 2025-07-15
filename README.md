@@ -1,7 +1,7 @@
 ## DAD
 Related Manuscript: This code is associated with “Progressive Disentanglement for Robust Image Anomaly Detection,” submitted to The Visual Computer (2025). Please cite the paper if you use these resources.
 
-[DOI for Code]
+[DOI for Code] 10.5281/zenodo.15901469
 ## Datasets
 To train on the Anomaly Detection dataset, download the data and extract it. You can run the download_dataset.sh script from the project directory to download the MVTec to the datasets folder.
 ## Installation
